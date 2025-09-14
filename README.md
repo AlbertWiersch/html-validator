@@ -5,9 +5,6 @@
 
 This project was created as another way for users to report issues with **CSS HTML Validator**. Please create an issue for any bug reports or feature requests you may have.
 
-Users can also report issues using our online support forum:
-https://www.htmlvalidator.com/CSS-HTML-Forum/
-
 Users can contact us via the web:
 https://www.htmlvalidator.com/contactus.php
 
