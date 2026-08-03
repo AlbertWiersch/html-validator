@@ -5,6 +5,10 @@
 
 This project was created as an easy way to report issues with **CSS HTML Validator**. Please create an issue for any bug reports or feature requests you may have.
 
+Website: https://www.htmlvalidator.com
+
+Online Validator (BETA): https://htmlval.com
+
 Documentation for htmlval for Mac:<br>
 https://www.htmlvalidator.com/css-html-validator-for-mac.php
 
